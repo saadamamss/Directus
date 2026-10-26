@@ -11,6 +11,7 @@ wwwroot/uploads/
 
 # User secrets & local config
 appsettings.Development.json
+*.local.json
 *.user
 
 # Visual Studio
